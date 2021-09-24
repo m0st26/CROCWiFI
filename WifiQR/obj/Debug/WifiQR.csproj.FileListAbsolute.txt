@@ -1,0 +1,51 @@
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\bin\Debug\WifiQR.exe.config
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\bin\Debug\WifiQR.exe
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\bin\Debug\WifiQR.pdb
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\bin\Debug\FluentCommandLineParser.dll
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\bin\Debug\QRCoder.dll
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\bin\Debug\System.Drawing.Common.dll
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\bin\Debug\FluentCommandLineParser.pdb
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\bin\Debug\FluentCommandLineParser.xml
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\obj\Debug\WifiQR.csprojAssemblyReference.cache
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\obj\Debug\WifiQR.csproj.CoreCompileInputs.cache
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\obj\Debug\WifiQR.csproj.CopyComplete
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\obj\Debug\WifiQR.exe
+C:\Users\mos_k\Downloads\WifiQR-master\WifiQR\obj\Debug\WifiQR.pdb
+I:\qr croc\WifiQR\obj\Debug\WifiQR.csprojAssemblyReference.cache
+I:\qr croc\WifiQR\obj\Debug\WifiQR.csproj.CoreCompileInputs.cache
+I:\qr croc\WifiQR\obj\Debug\WifiQR.exe
+I:\qr croc\WifiQR\obj\Debug\WifiQR.pdb
+I:\qr croc\WifiQR\bin\Debug\WifiQR.exe.config
+I:\qr croc\WifiQR\bin\Debug\WifiQR.exe
+I:\qr croc\WifiQR\bin\Debug\WifiQR.pdb
+I:\qr croc\WifiQR\bin\Debug\FluentCommandLineParser.dll
+I:\qr croc\WifiQR\bin\Debug\QRCoder.dll
+I:\qr croc\WifiQR\bin\Debug\System.Drawing.Common.dll
+I:\qr croc\WifiQR\bin\Debug\FluentCommandLineParser.pdb
+I:\qr croc\WifiQR\bin\Debug\FluentCommandLineParser.xml
+I:\qr croc\WifiQR\obj\Debug\WifiQR.csproj.CopyComplete
+D:\qr croc\WifiQR\bin\Debug\WifiQR.exe.config
+D:\qr croc\WifiQR\bin\Debug\WifiQR.exe
+D:\qr croc\WifiQR\bin\Debug\WifiQR.pdb
+D:\qr croc\WifiQR\bin\Debug\FluentCommandLineParser.dll
+D:\qr croc\WifiQR\bin\Debug\QRCoder.dll
+D:\qr croc\WifiQR\bin\Debug\System.Drawing.Common.dll
+D:\qr croc\WifiQR\bin\Debug\FluentCommandLineParser.pdb
+D:\qr croc\WifiQR\bin\Debug\FluentCommandLineParser.xml
+D:\qr croc\WifiQR\obj\Debug\WifiQR.csprojAssemblyReference.cache
+D:\qr croc\WifiQR\obj\Debug\WifiQR.csproj.CopyComplete
+D:\qr croc\WifiQR\obj\Debug\WifiQR.exe
+D:\qr croc\WifiQR\obj\Debug\WifiQR.pdb
+H:\qr croc\WifiQR\bin\Debug\WifiQR.exe.config
+H:\qr croc\WifiQR\bin\Debug\WifiQR.exe
+H:\qr croc\WifiQR\bin\Debug\WifiQR.pdb
+H:\qr croc\WifiQR\bin\Debug\FluentCommandLineParser.dll
+H:\qr croc\WifiQR\bin\Debug\QRCoder.dll
+H:\qr croc\WifiQR\bin\Debug\System.Drawing.Common.dll
+H:\qr croc\WifiQR\bin\Debug\FluentCommandLineParser.pdb
+H:\qr croc\WifiQR\bin\Debug\FluentCommandLineParser.xml
+H:\qr croc\WifiQR\obj\Debug\WifiQR.csprojAssemblyReference.cache
+H:\qr croc\WifiQR\obj\Debug\WifiQR.csproj.CoreCompileInputs.cache
+H:\qr croc\WifiQR\obj\Debug\WifiQR.csproj.CopyComplete
+H:\qr croc\WifiQR\obj\Debug\WifiQR.exe
+H:\qr croc\WifiQR\obj\Debug\WifiQR.pdb
